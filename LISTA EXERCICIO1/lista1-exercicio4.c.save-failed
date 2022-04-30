@@ -1,0 +1,31 @@
+#include <stdio.h>
+#include <string.h>
+#include <math.h>
+
+
+int main() {
+//declarando variaveis
+
+    struct Livro{
+        int isbn;
+        char titulo[10];
+        int numeropg;
+        float preco;
+        int ano;
+    };
+
+
+    struct Livro a;
+
+//rodando programa
+
+    a.isbn=0;
+    strcpy(a.titulo,"nossa felicidade");
+    a.numeropg=50;
+    a.preco=30;
+    a.ano=1985;
+
+    printf("Os valores informados sao: %i %c %i %f %i",a.isbn,a.titulo,a.numeropg,a.preco,a.ano);
+
+    return 0;
+}

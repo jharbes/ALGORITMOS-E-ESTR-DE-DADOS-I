@@ -1,0 +1,6 @@
+Exercício 6
+Vence 6 de fevereiro de 2022 23:59
+Instruções
+1) Criar uma Pilha
+2) Criar uma Fila
+Para cada uma das soluções acima usar Lista Simplesmente encadeada ou duplamente encadeada e justificar sua escolha

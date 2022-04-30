@@ -1,0 +1,14 @@
+Exercício 3
+Venceu ontem às 23:59
+Instruções
+ 1.     Para a lista simplesmente encadeada, faça seguintes funções:
+
+1.5 Buscar.
+
+1.6 Excluir 1 elemento (usando a buscar)
+
+1.7. Excluir tudo
+
+Alterar a função
+
+1.4 Alterar (para usar a função buscar)

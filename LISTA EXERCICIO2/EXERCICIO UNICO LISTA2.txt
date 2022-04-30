@@ -1,0 +1,46 @@
+ 1.     Faça um programa que controle uma lista simplesmente encadeada, com as seguintes funções:
+
+1.1 Inserir no inicio.
+
+1.2 Inserir no final.
+
+1.3 Imprimir.
+
+1.4 Alterar.
+
+Usar o modelo abaixo:
+
+
+
+#include<stdio.h>
+
+
+
+struct No{
+
+            int dado;
+
+            struct No *prox;
+
+} *ini=NULL;
+
+
+
+int menu();
+
+int inserir_ini(int num);
+
+int inserir_fim(int num);
+
+int imprimir();
+
+int alterar(int alvo);
+
+
+
+int main(){
+
+
+
+}
+

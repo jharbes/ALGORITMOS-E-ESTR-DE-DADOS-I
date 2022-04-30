@@ -1,0 +1,12 @@
+
+
+EXERCICIO PILHA
+/* Lista simplesmente encadeada, pois nao precisa ser percorrida em
+ambas as direcoes, basta uma direcao */
+
+
+EXERCICIO FILA
+/* Lista duplamente encadeada para que possa correr em ambos os sentidos,
+do inicio para o fim e do fim para o inicio igualmente. */
+
+

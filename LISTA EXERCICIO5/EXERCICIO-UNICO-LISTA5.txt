@@ -1,0 +1,6 @@
+Exercício 5
+Vence 30 de janeiro de 2022 23:59
+Instruções
+Para a Lista Duplamente Encadeada, implementar:
+Excluir um elemento
+Excluir TODOS os elementos (começando no inicio e no fim da lista simultaneamente)

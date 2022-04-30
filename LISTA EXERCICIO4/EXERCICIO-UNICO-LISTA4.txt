@@ -1,0 +1,48 @@
+Exercício 4
+Vence 23 de janeiro de 2022 23:59
+Instruções
+1. Faça um programa que controle uma lista DUPLAMENTE encadeada, com as seguintes funções:
+
+1.1 Inserir.
+
+1.2 Imprimir.
+
+1.3 Buscar (pelos dois lados).
+
+1.4 Alterar, usando a função buscar.
+
+Usar o modelo abaixo:
+
+
+
+#include<stdio.h>
+
+
+
+struct No{
+
+            int dado;
+
+            struct No *prox, *ant;
+
+} *ini=NULL, *fim=NULL;
+
+
+
+int menu();
+
+int inserir(int num);
+
+int imprimir();
+
+struct No buscar (int alvo);
+
+int alterar(int alvo);
+
+
+
+int main(){
+
+
+
+}
